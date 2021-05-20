@@ -1,5 +1,5 @@
 - 👋 Hi, I’m inferno280
-- 👀 I’m interested in java coding, spigot coding 
+- 👀 I’m interested in java coding, spigot coding , java discord api
 - 🌱 I’m currently learning apis and libraries in java
 - 📫 You can contact me on discord Inf3rn0#8965
 
