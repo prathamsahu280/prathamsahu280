@@ -1,10 +1,8 @@
 - 👋 Hi, I’m inferno280
 - 👀 I’m interested in java coding, spigot coding , java discord api
 - 🌱 I’m currently learning apis and libraries in java
-- 📫 You can contact me on discord Inf3rn0#8965
-# My Discord
+- 📫 You can contact me on discord 
 
-[Discord](https://discord.com/users/688237610636017714)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/688237610636017714)](https://discord.com/users/688237610636017714)
 
 <!---
