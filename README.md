@@ -1,6 +1,6 @@
 - 👋 Hi, I’m inferno280
 - 👀 I’m interested in java coding, c, react.js, c++, javascript.
-- 🌱 I’m currently learning apis and libraries in java
+- 🌱 Currently accepting projects
 - 📫 You can contact me on discord 
 
 
