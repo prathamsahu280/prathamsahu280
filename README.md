@@ -1,4 +1,4 @@
-- 👋 Hi, I’m inferno280
+- 👋 Hi, I’m pratham
 - 👀 I’m interested in java coding, c, react.js, c++, javascript.
 - 🌱 Currently accepting projects
 - 📫 You can contact me on discord 
